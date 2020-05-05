@@ -1,0 +1,6 @@
+framework module Pods_Bills {
+  umbrella header "Pods-Bills-umbrella.h"
+
+  export *
+  module * { export * }
+}
