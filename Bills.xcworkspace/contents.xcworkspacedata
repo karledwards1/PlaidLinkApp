@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/karledwards/.git_repos/Xcode/Bills/Bills/Balances.storyboard">
+   </FileRef>
+   <FileRef
       location = "group:Bills.xcodeproj">
    </FileRef>
    <FileRef

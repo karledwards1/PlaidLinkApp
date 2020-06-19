@@ -43,6 +43,7 @@
 		3120A684245B397100192A11 /* BillsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BillsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3120A688245B397100192A11 /* BillsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BillsTests.swift; sourceTree = "<group>"; };
 		3120A68A245B397100192A11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		31E0D4FB24701C9B0047EB72 /* Balances.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Balances.storyboard; path = /Users/karledwards/.git_repos/Xcode/Bills/Bills/Balances.storyboard; sourceTree = "<absolute>"; };
 		35A4D61B17D9662C739C0857 /* Pods-BillsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BillsTests.debug.xcconfig"; path = "Target Support Files/Pods-BillsTests/Pods-BillsTests.debug.xcconfig"; sourceTree = "<group>"; };
 		4EFA2DFAE2C6306A8B43D443 /* Pods_Bills.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Bills.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		91AD9F40FDE46A07B7F6A055 /* Pods-Bills.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bills.debug.xcconfig"; path = "Target Support Files/Pods-Bills/Pods-Bills.debug.xcconfig"; sourceTree = "<group>"; };
@@ -97,6 +98,7 @@
 				3120A670245B397000192A11 /* SceneDelegate.swift */,
 				3120A672245B397000192A11 /* ViewController.swift */,
 				3120A674245B397000192A11 /* Main.storyboard */,
+				31E0D4FB24701C9B0047EB72 /* Balances.storyboard */,
 				3120A67A245B397100192A11 /* Assets.xcassets */,
 				3120A67C245B397100192A11 /* LaunchScreen.storyboard */,
 				3120A67F245B397100192A11 /* Info.plist */,
